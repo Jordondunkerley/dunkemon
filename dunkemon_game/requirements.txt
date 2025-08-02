@@ -1,3 +1,0 @@
-# This project intentionally relies only on the Python standard library.
-# Render still requires a requirements.txt file to recognise a Python service.
-# No external packages are needed.
