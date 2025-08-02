@@ -1,0 +1,74 @@
+{
+  "Ignis": {
+    "types": ["Fire"],
+    "base_stats": {"hp": 70, "attack": 60, "defense": 50, "sp_atk": 70, "sp_def": 50, "speed": 60},
+    "moveset": {
+      "Tackle": 1,
+      "Flame Shot": 5,
+      "Spark": 10
+    }
+  },
+  "Aquava": {
+    "types": ["Water"],
+    "base_stats": {"hp": 65, "attack": 50, "defense": 55, "sp_atk": 70, "sp_def": 65, "speed": 50},
+    "moveset": {
+      "Tackle": 1,
+      "Water Jet": 5,
+      "Gust": 10
+    }
+  },
+  "Budleaf": {
+    "types": ["Grass"],
+    "base_stats": {"hp": 70, "attack": 55, "defense": 60, "sp_atk": 45, "sp_def": 65, "speed": 50},
+    "moveset": {
+      "Tackle": 1,
+      "Leaf Slice": 5,
+      "Poison Sting": 8
+    }
+  },
+  "Voltbit": {
+    "types": ["Electric"],
+    "base_stats": {"hp": 50, "attack": 45, "defense": 40, "sp_atk": 65, "sp_def": 45, "speed": 80},
+    "moveset": {
+      "Tackle": 1,
+      "Spark": 1,
+      "Gust": 7
+    }
+  },
+  "Granite": {
+    "types": ["Rock"],
+    "base_stats": {"hp": 80, "attack": 85, "defense": 90, "sp_atk": 30, "sp_def": 45, "speed": 25},
+    "moveset": {
+      "Tackle": 1,
+      "Rock Toss": 3,
+      "Flame Shot": 10
+    }
+  },
+  "Skylet": {
+    "types": ["Flying"],
+    "base_stats": {"hp": 55, "attack": 45, "defense": 40, "sp_atk": 45, "sp_def": 50, "speed": 70},
+    "moveset": {
+      "Tackle": 1,
+      "Gust": 3,
+      "Leaf Slice": 8
+    }
+  },
+  "Venomite": {
+    "types": ["Poison"],
+    "base_stats": {"hp": 60, "attack": 55, "defense": 50, "sp_atk": 55, "sp_def": 50, "speed": 60},
+    "moveset": {
+      "Tackle": 1,
+      "Poison Sting": 1,
+      "Gust": 6
+    }
+  },
+  "Dualpha": {
+    "types": ["Normal"],
+    "base_stats": {"hp": 70, "attack": 70, "defense": 60, "sp_atk": 60, "sp_def": 60, "speed": 50},
+    "moveset": {
+      "Tackle": 1,
+      "Leaf Slice": 5,
+      "Water Jet": 7
+    }
+  }
+}
